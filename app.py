@@ -211,7 +211,6 @@ pengambilan kebijakan pengelolaan hutan.
 
 4. Pengembangan ekowisata dapat menjadi alternatif peningkatan
 pendapatan sekaligus mendukung konservasi hutan.
-""")
 
 st.markdown("---")
 st.caption("Sumber: Hasil sintesis tiga jurnal ekonomi sumber daya hutan.")
