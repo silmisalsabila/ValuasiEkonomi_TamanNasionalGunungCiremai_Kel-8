@@ -36,17 +36,10 @@ st.write("**Kelompok 8**")
 
 st.write("""
 1. Nadylah Agustinawati (10090224003)
+
 2. Silmi Yusniah Salsabila (10090224020)
+
 3. Siti Annisa Dewanty (10090224033)
-""")
-
-st.write("""
-Mata Kuliah
-Ekonomi Sumber Daya Alam dan Lingkungan
-
-st.write("""
-Dosen Pengampu
-Yuhka Sundaya S.E., M.Si.
 """)
 
 st.write("""
@@ -213,6 +206,7 @@ pengambilan kebijakan pengelolaan hutan.
 
 4. Pengembangan ekowisata dapat menjadi alternatif peningkatan
 pendapatan sekaligus mendukung konservasi hutan.
+""")
 
 st.markdown("---")
 st.caption("Sumber: Hasil sintesis tiga jurnal ekonomi sumber daya hutan.")
