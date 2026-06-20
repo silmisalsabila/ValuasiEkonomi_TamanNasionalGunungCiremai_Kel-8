@@ -108,7 +108,7 @@ elif menu == "Profil TNGC":
         st.metric(
             "Spesies Anggrek",
             "117"
-        ))
+        )
 
     st.subheader("Keanekaragaman Hayati")
 
