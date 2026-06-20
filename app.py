@@ -54,6 +54,27 @@ if menu == "Beranda":
 
     st.header("Beranda")
 
+    st.info("""
+### Kelompok 8
+
+**Anggota Kelompok:**
+- Nadylah Agustinawati (10090224003)
+- Silmi Yusniah Salsabila (10090224020)
+- Siti Annisa Dewanty (10090224033)
+
+**Mata Kuliah**
+Ekonomi Sumber Daya Alam dan Lingkungan
+
+**Dosen Pengampu**
+Yuhka Sundaya, S.E., M.Si.
+
+**Program Studi**
+Ekonomi Pembangunan
+
+**Universitas**
+Universitas Islam Bandung
+""")
+    
     st.write("""
     Aplikasi Valuasi Ekonomi Taman Nasional Gunung Ciremai (TNGC) merupakan media pembelajaran interaktif yang dirancang untuk membantu mahasiswa memahami konsep ekonomi sumber daya hutan melalui pendekatan valuasi ekonomi lingkungan. Aplikasi ini mengintegrasikan berbagai konsep penting dalam Ekonomi Sumber Daya Alam dan Lingkungan, seperti Total Economic Value (TEV), trade-off penggunaan lahan, serta Payment for Ecosystem Services (PES).
 
